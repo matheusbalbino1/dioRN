@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Introdução ao React Native
 ## Digital Inotivation One
 
@@ -33,4 +31,3 @@
   - Style ( StyleSheet)
   - Pressable
   - Linking API
->>>>>>> c26cd25f28417ac4006c829b56171f48220d5b39
