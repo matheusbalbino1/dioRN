@@ -1,7 +1,8 @@
 # Introdução ao React Native
 ## Digital Inotivation One
 
-![image](https://user-images.githubusercontent.com/96322427/169906699-c3cc7770-1bbd-4403-9242-29c63a4e30b9.png)
+![image](https://user-images.githubusercontent.com/96322427/169918741-0ba1545b-3c3d-418b-a9e6-2bfd369ba7ec.png)
+
 
 ## Conteúdo
 -- O que é React Native?
